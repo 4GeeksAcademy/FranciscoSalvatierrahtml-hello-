@@ -1,0 +1,161 @@
+.fondo{
+    background: black;
+}
+.pan{
+    height:700px;
+    width: 100%;
+    background: white;
+    margin-top: 5%;
+}
+.formu{
+
+   height:100%;
+   background: white;
+   width: 900px;
+   margin-left: 20%;
+   
+   
+   border-color: black;
+   border:3px solid gray;
+
+}
+.col-md-6{
+   color: red;
+}
+.arriba{
+   background: gainsboro;
+   
+   width: 100%;
+   height: 7%;
+}
+.arriba h1{
+    font-size: 150%;
+    font-style: normal;
+    font-weight: bolder;
+    padding: 1%;
+}
+.alerta{
+   background: #f57e67;
+   width: 90%;
+   height: 5%;
+   margin-left: 5%;
+   margin-top: 3%;
+  
+   padding-left: 3%;
+   border-radius: 1rem;
+  
+  color: #cf1500;
+  margin-bottom: 5%;
+   
+}
+.alerta p{
+    margin-top: 3%;
+    font-size: 100%;
+}
+.col2{
+   
+   width: 40%;
+}
+
+.col3{
+   
+   width: 25%;
+
+}
+
+.col4{
+   
+   width: 35%;
+   float: right;
+}
+
+.colFirst{
+   width: 45%;
+   float: left;
+}
+
+
+.colLast{
+   width: 45%;
+   float: right;
+  
+}
+
+
+.row1{
+   width: 100%;
+   margin-top: 5%;
+   margin-bottom: 3%;
+}
+label{
+   float: left;
+}
+.colCity{
+   width: 50%;
+   float: left;
+   margin-left: 1%;
+}
+.colState{
+   width: 25%;
+  float: inline-end;
+}
+.colPostal{
+   width: 23%;
+   float: right;
+}
+.container1{
+width: 100%;
+   margin-top: 17%;
+}
+.Tarjeta{
+   margin-top: 5%;
+   width: 40%;
+   margin-left: 3%;
+   font-style: oblique;
+   font-weight: bolder;
+}
+.Tarjeta img{
+   height: 10xp;
+   width: 50%;
+}
+.mensaje{
+   width: 40%;
+   margin-top: 5%;
+   float: right;
+}
+.mensaje textarea{
+   width: 290%;
+   height: 15%;
+}
+.mensaje label{
+    font-weight: bolder;
+}
+.mensaje p{
+    color: gainsboro;
+}
+.abajo{
+    background: gainsboro;
+    float: right;
+   
+    
+    width: 100%;
+    height: 10%;
+    
+ }
+ .botCancel{
+    background: gray;
+    border-radius: 1rem;
+    color: white;
+    width: 100px;
+    margin-top: 3%;
+    
+ }
+ .botSend{
+    background: rgb(53, 53, 230);
+    border-radius: 1rem;
+    color: white;
+    width: 100px;
+    margin-top: 3%;
+    margin-left: 1%;
+    margin-right: 2%;
+ }
